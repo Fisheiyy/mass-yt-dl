@@ -1,0 +1,17 @@
+{
+  "main": "downloader.js",
+  "name": "mass-yt-dl",
+  "description": "downloads all links in list.txt as .mp3 files.",
+  "version": "1.0.0",
+  "author": "fisheiyy",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.5"
+  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "github.com/Fisheiyy/txt-file-clean-combine"
+    }
+  ]
+}
